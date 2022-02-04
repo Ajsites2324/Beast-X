@@ -1,7 +1,7 @@
 {
   "name": "𝘽𝙚𝙖𝙨𝙩-x",
   "description": "A Remix of Userbots on Github By chrisdroid1 and other unmentioned devs",
-  "logo": "https://telegra.ph/file/a6c797b401aa251495221.jpg",
+  "logo": "https://te.legra.ph/file/99d03d5f83650aa3f4afe.jpg",
   "keywords": [
     "telegram",
     "Beast-x",
@@ -9,7 +9,7 @@
     "telegram-Beast",
     "productivity"
   ],
-  "repository": "https://github.com/msy1717/Beast-X",
+  "repository": "https://github.com/Ajsites2324/Beast-X",
   "website": "t.me/BeastX_Userbot",
   "Support": "t.me/BeastX_Support",
   "stack": "container",
@@ -108,11 +108,11 @@
     },
      "ALIVE_IMAGE": {
       "description": "Enter Image URL for bot pic ",
-      "value": "https://telegra.ph/file/4a1e0ee716f805cf66777.jpg"
+      "value": "https://te.legra.ph/file/99d03d5f83650aa3f4afe.jpg"
     },
      "PMPERMIT_PIC": {
       "description": "Enter Image URL for bot's pmsecurity pic ",
-      "value": "https://telegra.ph/file/c33ed6c01759d8d0e801e.jpg"
+      "value": "https://te.legra.ph/file/99d03d5f83650aa3f4afe.jpg"
     },    
     "TZ": {
       "description": "Required for Correct Time on autopic",
